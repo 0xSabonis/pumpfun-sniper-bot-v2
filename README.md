@@ -1,4 +1,4 @@
-# 🚀 Solana Ultra-Fast Token Sniper – Raydium & Pump.fun  
+# Solana Token Sniper – Raydium & Pump.fun  
 
 A **high-performance Rust-based sniper bot** for **Solana**, detecting and executing ultra-fast token trades on **Raydium & Pump.fun** with real-time monitoring and instant execution.  
 
