@@ -85,21 +85,9 @@ A **high-performance Rust-based sniper bot** for **Solana**, detecting and execu
 
 ---
 
-## 📍 Best Environment  
-
-| Recommended Setup | Details |
-|------------------|---------|
-| **Server Type** | Dedicated Server |
-| **Location** | New York |
-| **Connection** | Low-latency RPC & gRPC |
-
----
 
 ## 💬 Support  
-
-| Contact | Link |
-|---------|------|
-| **Telegram** | [@dogewhiz](https://t.me/dogewhiz) |
+**Telegram** | [@dogewhiz](https://t.me/dogewhiz) 
 
 
 ---
